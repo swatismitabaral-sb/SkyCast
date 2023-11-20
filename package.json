@@ -1,0 +1,27 @@
+{
+  "name": "skycast",
+  "version": "1.0.0",
+  "description": "This app takes a city name as input and displays its weather conditions.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swatismitabaral-sb/SkyCast.git"
+  },
+  "keywords": [
+    "Javascript",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Swatismita Baral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swatismitabaral-sb/SkyCast/issues"
+  },
+  "homepage": "https://github.com/swatismitabaral-sb/SkyCast#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
