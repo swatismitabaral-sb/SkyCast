@@ -1,7 +1,5 @@
-require('dotenv').config({path: './.env'})
-
-console.log(process.env.API_KEY)
-const apiKey = process.env.API_KEY;
+// Todo: To update this to dotenv module
+const apiKey = API_KEY; // This is referenced from another .js file
 
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?&units=metric&q=";
 const searchBox = document.querySelector(".search input");
